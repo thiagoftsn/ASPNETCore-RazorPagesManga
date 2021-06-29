@@ -14,7 +14,7 @@ namespace ASPNETCore_RazorPagesManga.Pages.Mangas
             _context = context;
         }
 
-        public IList<Manga> Manga { get;set; }
+        public IList<Manga> Manga { get; set; }
 
         public async Task OnGetAsync()
         {

@@ -4,7 +4,7 @@ namespace ASPNETCore_RazorPagesManga.Data
 {
     public class ASPNETCore_RazorPagesMangaContext : DbContext
     {
-        public ASPNETCore_RazorPagesMangaContext (DbContextOptions<ASPNETCore_RazorPagesMangaContext> options)
+        public ASPNETCore_RazorPagesMangaContext(DbContextOptions<ASPNETCore_RazorPagesMangaContext> options)
             : base(options)
         {
         }

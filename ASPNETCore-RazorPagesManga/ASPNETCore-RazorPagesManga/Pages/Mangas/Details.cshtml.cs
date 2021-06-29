@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ASPNETCore_RazorPagesManga.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using ASPNETCore_RazorPagesManga.Data;
-using ASPNETCore_RazorPagesManga.Models;
+using System.Threading.Tasks;
 
 namespace ASPNETCore_RazorPagesManga.Pages.Mangas
 {
